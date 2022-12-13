@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Market",
+        "image": "https://i.ibb.co/93YJn3q/laptop-market.png",
+        "tools": [
+            {"img": "https://i.ibb.co/48Kw6zg/react.png", "title": "React JS"},
+            {"img": "https://i.ibb.co/2SCD4Z2/mongodb.png", "title": "MongoDb"},
+            {"img": "https://i.ibb.co/vcrbK9t/firebase.png", "title": "Firebase"},
+            {"img": "https://i.ibb.co/1by4CGK/tailwind.png", "title": "Tailwind"},
+            {"img":  "https://i.ibb.co/3TF8VFw/vercel.png", "title": "Vercel"}
+        ],
+        "demolink": "https://laptop-resale-market-6f17c.web.app/",
+        "codelink": "https://github.com/Mosharaf12/laptop-resale-client-12",
+        "details": "Firebase Authentication with email password and Google account. Users have to be registered to be able to see the products under different categories. There are three types of users- Admin, Seller and Buyer.Users Details are saved during registration in MongoDB database with node.js. For joining with google pop up, the user's email is searched in MongoDB. If the user is not found user data is added to the MongoDB database. Custom Hook is created to check user roles from the database."
+    },
+    {
+        "id": 2,
+        "title": "Tourist Guide",
+        "image": "https://i.ibb.co/K0RKdwT/turist-guide.png",
+        "tools": [
+            {"img": "https://i.ibb.co/48Kw6zg/react.png", "title": "React JS"},
+            {"img": "https://i.ibb.co/2SCD4Z2/mongodb.png", "title": "MongoDb"},
+            {"img": "https://i.ibb.co/vcrbK9t/firebase.png", "title": "Firebase"},
+            {"img": "https://i.ibb.co/1by4CGK/tailwind.png", "title": "Tailwind"},
+            {"img":  "https://i.ibb.co/3TF8VFw/vercel.png", "title": "Vercel"}
+        ],
+        "demolink": "https://tourist-guide-client-8307d.web.app/",
+        "codelink": "https://github.com/Mosharaf12/tourist-guide-client-11",
+        "details": "Firebase Authentication with email password and Google account. Users have to be registered to be able to see the places.Tourist Guide more information of here added the more blog section and services section and a simple footer.Tourist Guide is booking option in site you can book a place to go there and people are giving review in this category card and you can delete your own review."
+    },
+    {
+        "id": 3,
+        "title": "Dream learn",
+        "image": "https://i.ibb.co/d50kCHY/dream-learn.png",
+        "tools": [
+            {"img": "https://i.ibb.co/48Kw6zg/react.png", "title": "React JS"},
+            {"img": "https://i.ibb.co/vcrbK9t/firebase.png", "title": "Firebase"},
+            {"img": "https://i.ibb.co/1by4CGK/tailwind.png", "title": "Tailwind"},
+            {"img":  "https://i.ibb.co/3TF8VFw/vercel.png", "title": "Vercel"}
+        ],
+        "demolink": "https://online-education-client.web.app/",
+        "codelink": "https://github.com/Mosharaf12/dream-learn-client-10",
+        "details": "Firebase Authentication with email password and Google account. Users have to be registered to be able to see the products under different categories.Dream learn is a more attractive site for more knowledge education. And more function added the Faq, blog, and footer.Dream learn is a more functionality involved like as a , react , firebase, hosting firebase Vercel etc."
+    }
+]
